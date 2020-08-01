@@ -4,8 +4,7 @@
 - 🔭 I’m currently using JavaScript as my Tech tool!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects and enhance my problem solving skills
-- ⚡ Fun fact: I love to acquire knowledge on diverse subjects(Wild Animals, Human psychology, Spirituality, <br /> 
-              Inner Working of Human Body and Man made machines) <br/>
+- ⚡ Fun fact: I love to acquire knowledge on diverse subjects(Wild Animals, Human psychology, Spirituality, Inner Working of Human Body and Man made machines)
               and enjoys cooking too
 
 ### Connect with me:
