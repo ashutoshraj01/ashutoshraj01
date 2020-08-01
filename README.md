@@ -26,7 +26,10 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][nano]
+[<img align="left" alt="Nano" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][nano]
+[<img align="left" alt="React" width="26px" src="https://github.com/react-icons/react-icons/blob/master/react-icons.svg" />][react]
+[<img align="left" alt="Redux" width="26px" src="https://github.com/reduxjs/redux/blob/master/logo/logo.png" />][redux]
+
 
 <br />
 <br />
@@ -45,3 +48,5 @@
 [css]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [html]: https://en.wikipedia.org/wiki/HTML
 [vsCode]: https://code.visualstudio.com/
+[react]: https://reactjs.org/
+[redux]: https://redux.js.org/
