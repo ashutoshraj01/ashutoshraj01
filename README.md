@@ -36,7 +36,7 @@
 
 ---
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshraj01&show_icons=true&theme=dark&title_color=#008000)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshraj01&show_icons=true&theme=dark&title_color=green)
 
 ---
 [twitter]: https://twitter.com/Ashutos20846386
