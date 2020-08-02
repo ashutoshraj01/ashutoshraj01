@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashutosh Raj  👋
 
-## I'm a Developer by profession, and Curious by nature!
+## I'm a Developer by profession, and inquisitive by nature!
 - 🔭 I’m currently using JavaScript as my Tech tool!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects and enhance my problem solving skills
