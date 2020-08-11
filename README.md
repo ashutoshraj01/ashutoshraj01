@@ -14,9 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[![Ashutosh Raj's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/ashutoshraj01)
+[<img align="left" alt="AshutoshRaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AshutoshRaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AshutoshRaj | Twitter" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][DevTo]
+
 
 <br />
 
@@ -46,6 +47,7 @@
 ---
 [twitter]: https://twitter.com/Ashutos20846386
 [linkedin]:  https://www.linkedin.com/in/ashutosh-raj-a835a1132/
+[DevTo]: https://dev.to/ashutoshraj01
 [nano]: https://en.wikipedia.org/wiki/GNU_nano
 [github]: https://github.com/
 [mongo]: https://www.mongodb.com/
