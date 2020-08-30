@@ -4,7 +4,7 @@
 - 🔭 I’m currently using JavaScript as my Tech tool!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects and enhance my problem solving skills
-### Fun fact:
+### Fun facts:
 ##### I love to acquire knowledge on diverse subjects like 
 1. Wild Animals
 2. Human psychology
