@@ -42,8 +42,6 @@
 
 ---
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshraj01&show_icons=true&theme=merko)
-
 ---
 [twitter]: https://twitter.com/Ashutos20846386
 [linkedin]:  https://www.linkedin.com/in/ashutosh-raj-a835a1132/
